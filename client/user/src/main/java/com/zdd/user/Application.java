@@ -14,7 +14,7 @@ import org.springframework.context.annotation.ComponentScan;
 @EnableFeignClients
 @EnableHystrixDashboard
 @EnableCircuitBreaker
-@ComponentScan(basePackages = "com.lynn")
+@ComponentScan(basePackages = "com.zdd")
 @EnableEncrypt
 public class Application {
 

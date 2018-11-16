@@ -1,6 +1,6 @@
 package com.zdd.index;
 
-import com.lynn.common.annotation.EnableEncrypt;
+import com.zdd.common.annotation.EnableEncrypt;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker;

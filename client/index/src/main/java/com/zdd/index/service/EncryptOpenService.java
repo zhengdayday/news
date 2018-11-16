@@ -1,7 +1,7 @@
 package com.zdd.index.service;
 
-import com.lynn.common.result.SingleResult;
-import com.lynn.common.utils.RSAUtils;
+import com.zdd.common.result.SingleResult;
+import com.zdd.common.utils.RSAUtils;
 import com.zdd.index.request.KeyRequest;
 import com.zdd.index.response.KeyResponse;
 import com.zdd.index.response.RSAResponse;

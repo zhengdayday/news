@@ -1,7 +1,7 @@
 package com.zdd.index.controller.open;
 
-import com.lynn.common.annotation.DisabledEncrypt;
-import com.lynn.common.result.SingleResult;
+import com.zdd.common.annotation.DisabledEncrypt;
+import com.zdd.common.result.SingleResult;
 import com.zdd.index.request.KeyRequest;
 import com.zdd.index.response.KeyResponse;
 import com.zdd.index.response.RSAResponse;

@@ -1,4 +1,4 @@
-//package com.lynn.common;
+//package com.zdd.common;
 //
 //import com.alibaba.fastjson.serializer.SerializerFeature;
 //import com.alibaba.fastjson.support.config.FastJsonConfig;
